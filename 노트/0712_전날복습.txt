@@ -1,0 +1,25 @@
+어제 복습
+
+자료형
+int
+float
+string
+bool 
+연산자
+산술연산자
+비교연산자
+논리연산자
+할당연산자
+증감연산자
+
+if
+switch
+case
+break;
+
+배열
+반복문
+for
+
+형변환
+ToString();
