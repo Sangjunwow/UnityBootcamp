@@ -1,0 +1,16 @@
+C:\Work\0712_01_star\bin\Debug\0712_01_star.exe.config
+C:\Work\0712_01_star\bin\Debug\0712_01_star.exe
+C:\Work\0712_01_star\bin\Debug\0712_01_star.pdb
+C:\Work\0712_01_star\obj\Debug\0712_01_star.csproj.AssemblyReference.cache
+C:\Work\0712_01_star\obj\Debug\0712_01_star.csproj.SuggestedBindingRedirects.cache
+C:\Work\0712_01_star\obj\Debug\0712_01_star.csproj.CoreCompileInputs.cache
+C:\Work\0712_01_star\obj\Debug\0712_01_star.exe
+C:\Work\0712_01_star\obj\Debug\0712_01_star.pdb
+C:\Work\0712_01_star_map\bin\Debug\0712_01_star.exe.config
+C:\Work\0712_01_star_map\bin\Debug\0712_01_star.exe
+C:\Work\0712_01_star_map\bin\Debug\0712_01_star.pdb
+C:\Work\0712_01_star_map\obj\Debug\0712_01_star.csproj.AssemblyReference.cache
+C:\Work\0712_01_star_map\obj\Debug\0712_01_star.csproj.SuggestedBindingRedirects.cache
+C:\Work\0712_01_star_map\obj\Debug\0712_01_star.csproj.CoreCompileInputs.cache
+C:\Work\0712_01_star_map\obj\Debug\0712_01_star.exe
+C:\Work\0712_01_star_map\obj\Debug\0712_01_star.pdb

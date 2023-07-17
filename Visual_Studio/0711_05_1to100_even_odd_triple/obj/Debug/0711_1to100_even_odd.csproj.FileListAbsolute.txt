@@ -1,0 +1,8 @@
+C:\Work\0711_1to100_even_odd\bin\Debug\0711_1to100_even_odd.exe.config
+C:\Work\0711_1to100_even_odd\bin\Debug\0711_1to100_even_odd.exe
+C:\Work\0711_1to100_even_odd\bin\Debug\0711_1to100_even_odd.pdb
+C:\Work\0711_1to100_even_odd\obj\Debug\0711_1to100_even_odd.csproj.AssemblyReference.cache
+C:\Work\0711_1to100_even_odd\obj\Debug\0711_1to100_even_odd.csproj.SuggestedBindingRedirects.cache
+C:\Work\0711_1to100_even_odd\obj\Debug\0711_1to100_even_odd.csproj.CoreCompileInputs.cache
+C:\Work\0711_1to100_even_odd\obj\Debug\0711_1to100_even_odd.exe
+C:\Work\0711_1to100_even_odd\obj\Debug\0711_1to100_even_odd.pdb

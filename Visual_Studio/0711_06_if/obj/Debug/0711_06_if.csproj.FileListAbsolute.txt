@@ -1,0 +1,8 @@
+C:\Work\0711_06_if\obj\Debug\0711_06_if.csproj.AssemblyReference.cache
+C:\Work\0711_06_if\obj\Debug\0711_06_if.csproj.SuggestedBindingRedirects.cache
+C:\Work\0711_06_if\obj\Debug\0711_06_if.csproj.CoreCompileInputs.cache
+C:\Work\0711_06_if\bin\Debug\0711_06_if.exe.config
+C:\Work\0711_06_if\bin\Debug\0711_06_if.exe
+C:\Work\0711_06_if\bin\Debug\0711_06_if.pdb
+C:\Work\0711_06_if\obj\Debug\0711_06_if.exe
+C:\Work\0711_06_if\obj\Debug\0711_06_if.pdb

@@ -1,0 +1,8 @@
+C:\Work\0711_loop_1to10\bin\Debug\0711_loop_1to10.exe.config
+C:\Work\0711_loop_1to10\bin\Debug\0711_loop_1to10.exe
+C:\Work\0711_loop_1to10\bin\Debug\0711_loop_1to10.pdb
+C:\Work\0711_loop_1to10\obj\Debug\0711_loop_1to10.csproj.AssemblyReference.cache
+C:\Work\0711_loop_1to10\obj\Debug\0711_loop_1to10.csproj.SuggestedBindingRedirects.cache
+C:\Work\0711_loop_1to10\obj\Debug\0711_loop_1to10.csproj.CoreCompileInputs.cache
+C:\Work\0711_loop_1to10\obj\Debug\0711_loop_1to10.exe
+C:\Work\0711_loop_1to10\obj\Debug\0711_loop_1to10.pdb

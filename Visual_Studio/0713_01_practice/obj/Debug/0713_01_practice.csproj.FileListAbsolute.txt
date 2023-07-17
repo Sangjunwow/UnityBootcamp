@@ -1,0 +1,8 @@
+C:\Work\0713_01_practice\bin\Debug\0713_01_practice.exe.config
+C:\Work\0713_01_practice\bin\Debug\0713_01_practice.exe
+C:\Work\0713_01_practice\bin\Debug\0713_01_practice.pdb
+C:\Work\0713_01_practice\obj\Debug\0713_01_practice.csproj.AssemblyReference.cache
+C:\Work\0713_01_practice\obj\Debug\0713_01_practice.csproj.SuggestedBindingRedirects.cache
+C:\Work\0713_01_practice\obj\Debug\0713_01_practice.csproj.CoreCompileInputs.cache
+C:\Work\0713_01_practice\obj\Debug\0713_01_practice.exe
+C:\Work\0713_01_practice\obj\Debug\0713_01_practice.pdb

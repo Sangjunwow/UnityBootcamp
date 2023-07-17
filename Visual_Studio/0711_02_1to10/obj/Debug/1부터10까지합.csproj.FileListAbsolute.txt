@@ -1,0 +1,16 @@
+C:\Work\1부터10까지합\bin\Debug\1부터10까지합.exe.config
+C:\Work\1부터10까지합\bin\Debug\1부터10까지합.exe
+C:\Work\1부터10까지합\bin\Debug\1부터10까지합.pdb
+C:\Work\1부터10까지합\obj\Debug\1부터10까지합.csproj.AssemblyReference.cache
+C:\Work\1부터10까지합\obj\Debug\1부터10까지합.csproj.SuggestedBindingRedirects.cache
+C:\Work\1부터10까지합\obj\Debug\1부터10까지합.csproj.CoreCompileInputs.cache
+C:\Work\1부터10까지합\obj\Debug\1부터10까지합.exe
+C:\Work\1부터10까지합\obj\Debug\1부터10까지합.pdb
+C:\Work\0711_02_1to10\bin\Debug\1부터10까지합.exe.config
+C:\Work\0711_02_1to10\bin\Debug\1부터10까지합.exe
+C:\Work\0711_02_1to10\bin\Debug\1부터10까지합.pdb
+C:\Work\0711_02_1to10\obj\Debug\1부터10까지합.csproj.AssemblyReference.cache
+C:\Work\0711_02_1to10\obj\Debug\1부터10까지합.csproj.SuggestedBindingRedirects.cache
+C:\Work\0711_02_1to10\obj\Debug\1부터10까지합.csproj.CoreCompileInputs.cache
+C:\Work\0711_02_1to10\obj\Debug\1부터10까지합.exe
+C:\Work\0711_02_1to10\obj\Debug\1부터10까지합.pdb

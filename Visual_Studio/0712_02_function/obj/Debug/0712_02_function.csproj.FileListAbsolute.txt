@@ -1,0 +1,8 @@
+C:\Work\0712_02_function\obj\Debug\0712_02_function.csproj.AssemblyReference.cache
+C:\Work\0712_02_function\obj\Debug\0712_02_function.csproj.SuggestedBindingRedirects.cache
+C:\Work\0712_02_function\obj\Debug\0712_02_function.csproj.CoreCompileInputs.cache
+C:\Work\0712_02_function\bin\Debug\0712_02_function.exe.config
+C:\Work\0712_02_function\bin\Debug\0712_02_function.exe
+C:\Work\0712_02_function\bin\Debug\0712_02_function.pdb
+C:\Work\0712_02_function\obj\Debug\0712_02_function.exe
+C:\Work\0712_02_function\obj\Debug\0712_02_function.pdb

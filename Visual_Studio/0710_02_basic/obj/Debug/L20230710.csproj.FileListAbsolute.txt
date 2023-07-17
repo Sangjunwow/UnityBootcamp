@@ -1,0 +1,8 @@
+C:\Work\L20230710\bin\Debug\L20230710.exe.config
+C:\Work\L20230710\bin\Debug\L20230710.exe
+C:\Work\L20230710\bin\Debug\L20230710.pdb
+C:\Work\L20230710\obj\Debug\L20230710.csproj.AssemblyReference.cache
+C:\Work\L20230710\obj\Debug\L20230710.csproj.SuggestedBindingRedirects.cache
+C:\Work\L20230710\obj\Debug\L20230710.csproj.CoreCompileInputs.cache
+C:\Work\L20230710\obj\Debug\L20230710.exe
+C:\Work\L20230710\obj\Debug\L20230710.pdb
