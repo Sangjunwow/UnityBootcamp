@@ -83,8 +83,7 @@ namespace ConsoleApp1
             answer = value ? right : wrong;
             Console.WriteLine(answer);
 */
-            //pg.58 논리 연산자
-
+            /*//pg.58 논리 연산자
             int a = 3, b = 4;
             bool x, y;
 
@@ -92,6 +91,63 @@ namespace ConsoleApp1
             y = (b > 0);
             Console.WriteLine((a == 3) && (b == 3));
             Console.WriteLine(x || y);
+*/
+            /*//pg.60 연산의 우선순위
+            Console.WriteLine("2x8-6/2=" + (2*8-6/2));
+            Console.WriteLine("2x(8-6)/2=" + (2*(8-6)/2));
+            Console.WriteLine("1-2+3=" + (1-2+3));
+            Console.WriteLine("1-(2+3)=" + (1-(2+3)));
+*/
+            /*//pg.62 형 변환
+            Console.WriteLine("3/2=" + 3/2); //정수끼리 계산하면 답은 정수로만 나와서 나머지를 버리는 오답이 나온다
+            Console.WriteLine("3.0/2.0=" + 3.0/2.0); //실수를 포함하고 있는 계산일 경우 정수는 자동적으로 실수로 변환된다
+            Console.WriteLine("3.0/2=" + 3.0/2);
+            Console.WriteLine("3/2.0=" + 3 / 2.0);
+
+            short s = 536; //정수끼리 계산에서는 범위가 가장 큰 벙위의 형으로 변환
+            byte b = 12;
+            int a = s + b; //short형으로 변환된 548이 int형 변수 a에 대입됨
+*/
+            /*//pg.63 정밀도나 범위다른 형끼리 대입 / 캐스트 연산자
+            *//* int a = 8;
+             float b = a; //정수형을 실수형에 대입
+             double c = 2.8;
+             long d = c; //실수형을 정수형,decimal형에 대입 (불가능)
+             decimal e = 29;
+             float f = e;//decimal형을 실수에 대입 (불가능)
+             byte g = 10;
+             int h = g; //범위가 더 큰 형에 대입
+             long i = 35;
+             short j = i;//범위가 더 작은 형에 대입 (불가능)
+             int k = 41;
+             char l = k;//수치형을 문자형에 대입 (불가능)
+             byte n = 74;
+             sbyte m = n;//범위를 감당할 수 없는 형에 대입*//*
+            Console.WriteLine(" 3/2=" + (float)3 / 2); // "형환" ()를 쳐서 변환가능 ;
+            Console.WriteLine(" 3/2=" + 3 / (float)2); // float으로 형 변환
+*/
+           /* //pg.64 checked, unchecked 문
+            int a, b;
+            try
+            {
+                checked//기본값에는 unchecked상태로 설정됨
+                {
+                    a = int.MaxValue; //int.MaxValue는 int의 최댓값
+                    b = a + 1; // 1을 더해 오버플로 발생
+                    Console.WriteLine(b);
+                }
+            }
+            catch (OverflowException oe)//checked를 지정한 경우 오버플로 한 경우에 수행하는 예외처리도 작성해야함. unchecked는 해당사항없음
+            {
+                Console.WriteLine(oe.Message);
+            }
+*/
+           //pg.65 도전! 
+           //b10 c12 d12 e10
+           //b가 a랑 같거나 높을때/a가 b랑 같지 아니할때/b가 a랑 같을때?/a를 b로 나눌때?/ ab가 같고 c가 b랑 같거나 높을떄/a가b랑 다르거나 c가 b보다 높을때/몰라
+           //bool a; int a = (a =100 || a != 200)
+           //10 /1 /-7 /-14
+           //c
         }
     }
 }
