@@ -10,16 +10,17 @@ namespace _0720_01_practice
     internal class Program
     {
         static void Main(string[] args)
-        /*//pg.70 
-         if{
-            int a = 5;
-            if (a % 2 == 0)
-                Console.WriteLine(a + "는 짝수입니다.");
-            else
-                Console.WriteLine(a + "는 홀수입니다.");
-        }
-*/
         {
+            /*//pg.70 
+             if{
+                int a = 5;
+                if (a % 2 == 0)
+                    Console.WriteLine(a + "는 짝수입니다.");
+                else
+                    Console.WriteLine(a + "는 홀수입니다.");
+            }
+    */
+
             /* 
              int s = 65;
              Console.WriteLine("당신의 점수는" + s + "점입니다.");
@@ -113,19 +114,79 @@ namespace _0720_01_practice
             //pg.82 switch
             //switch 문의 식에는 정수형, enum 등 정수형에 준하는 형, char형, string형을 사용할수 있습니다
             //그 외의 겨우에는 대신에 if문을 사용하십시오
-            int a;
-            for(a=5; a<=8; a++)
-            {
-                Console.WriteLine(a+"/3="+a/3)
+            /* int a;
+             for (a = 5; a <= 8; a++)
+             {
+                 Console.WriteLine(a + "/3=" + a / 3);
 
 
-                    switch (a % 3)
-                {
-                    case1:
-                Console.WriteLine();
+                 switch (a % 3)
+                 {
+                     case 1:
+                         Console.WriteLine("나머지는 1입니다.");
+                         break;
+                     case 2:
+                         Console.WriteLine("나머지는 2입니다.");
+                         break;
+                     default:
+                         Console.WriteLine("나머지는 0입니다.");
+                         break;
+                 }
+             }
+ */
+            //pg.84 적의 좌표가 사정거리 안에 있는지
+            /*int[] myPos = { 20, 30 }; // 자신이 있는 위치
+            int[,] enemyPos = { //적의 위치
+                { 2, 4 },
+                { 10, 6 },
+                { 25, 20 },
             };
+            int i;
+            int dx, dy;
+            double d;
+            double r = 15; //사정거리
+            for (i = 0; i < 3; i++)
+            {
+                dx = myPos[0] - enemyPos[i, 0];
+                dy = myPos[0] - enemyPos[i, 1];
+                d = (double)(dx * dx + dy * dy);
+                if (d > r * r)
+                {
+                    Console.WriteLine("적" + i + "은(는) 사정권 밖에 있음");
+                }
+                else
+                {
+                    Console.WriteLine("적" + i + "은(는) 사정권 안에 있음");
+                }
+            }
+*/
+            //pg.85 막대그래프를 표시한다
+            string[] names =
+            {
+                "홍길동","김철수","최하니",
+                "이길상","권태기","장만옥"
+            };
+            int[] scores =
+            {
+                48,75,62,90,84,28
+            };
+            int i, j;
+            string s;
+            for (i = 0; i < 6; i++)
+            {
+                Console.Write(names[i] + " " + scores[i] + " ");
+                for (j = 0; j < scores[i] / 5; j++)
+                { Console.Write("I"); }
+                if (scores[i] < 50)
+                    s = "조금 부족";
+                else if (scores[i] < 70)
+                    s = "보통";
+                else if (scores[i] < 90)
+                    s = "잘함";
+                else
+                    s = "매우 잘 함";
+                Console.Write(" " + s);
             }
         }
-        
     }
 }
