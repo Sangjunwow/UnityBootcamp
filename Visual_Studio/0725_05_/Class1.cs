@@ -29,10 +29,13 @@ namespace _0725_05_
             //망명된 인수
             //메소드 호출할땐 인수의 이름을 붙여서 호출할수 있습니다 
         void Output
+        {
+            double area;
+        area = CalcCircle(pi:3.14159); // CalcCircle(1,3.14159)
+        area = CalcCircle(pi:3.14159, rad:20); // CalcCircle(1,3.14159) //인수의 순서를 바꿀 수 있습니다
 
+        }
 
 
         }
-        }
-    }
-}
+  
